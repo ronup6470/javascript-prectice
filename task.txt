@@ -1,0 +1,11 @@
+1) Write a JavaScript function that reverse a number.
+2) Write a JavaScript function that accepts a number as a parameter and check the number is prime or not.
+3) Write a JavaScript function which accepts an argument and returns the type.
+4) Write a Javascript function which accepts string an argument and returns reverse string.
+
+
+Note: please don't use internet help.
+
+function interest(principal,rate,years){
+    return principal * rate /100 * years;
+}
